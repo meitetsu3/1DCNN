@@ -9,7 +9,7 @@ CNN, Convolutional Neural Network, is famous for image recognition, but could be
 
 ## Prerequisites
 
-- Create ./data and ./data/download before running functions in data_prep.
+- Create ./data and ./data/download before running functions in data_prep.ipynb
 
 
 ### Reference
