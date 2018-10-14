@@ -1,7 +1,7 @@
 # 1DCNN
 ### Summary
 
-CNN, Convolutional Neural Network, is famous for image recognition, but could be a good modeling framework for time series data with multiple variables.  Convolutional operation applied to 1d data sets and graphical interpretation of the logic will be explained. Classification of different types of bearing faults using raw accelerometer data is performed and compared with different approaches. The experiments implies
+CNN, Convolutional Neural Network, is famous for image recognition, but could be a good modeling framework for time series data with multiple variables.  Convolutional operation applied to 1d data sets and graphical interpretation of the logic will be explained. Classification of different types of bearing faults using raw accelerometer data is performed and compared with different approaches. 
 
 ### Datasets and Inputs
 
